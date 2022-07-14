@@ -3,17 +3,19 @@
 
 ![Github Gorsel](/image.png)
 # Installation
-Öncelikle projeyi clonelayın. 
+Öncelikle projeyi clonelayın.
+```
 git clone https://github.com/Fira2007/kodluyoruzilkrepo
-
+```
 
 # Usage 
 Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
 
 * Linux icin
+```
 cd kodluyoruzilkrepo
 code .
-
+```
 
 # Licence
 [MIT](https://choosealicense.com/licenses/mit/)
